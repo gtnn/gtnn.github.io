@@ -11,6 +11,7 @@ rdiscount:
   extensions: [smart]
 
 # This is the default base url path.
+# BASE_PATH: http://meliodus.github.io/
 BASE_PATH : http://gtnn.github.io/
 
 # Website title.
