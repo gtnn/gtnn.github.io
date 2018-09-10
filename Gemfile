@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem 'github-pages', group: :jekyll_plugins
+#gem "jekyll"
 gem "RedCloth"
 gem "rdiscount"
 gem 'jekyll-sitemap'
